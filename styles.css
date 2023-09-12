@@ -511,3 +511,25 @@ h3 {
 .resume .func .interests-items div span {
   display: block;
 }
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  justify-content: space-between;
+}
+
+.leetify {
+  background: #283593;
+  padding: 15px;
+  margin: 15px 0 0;
+  clear: both;
+  flex-grow: 8;
+}
+
+.list-items {
+  padding-right: 30px;
+  list-style: none;
+  display: block;
+
+}
